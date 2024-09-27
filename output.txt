@@ -1,0 +1,27 @@
+Cartas restantes: 17
+Mano Andres: ['NIcocAt', 'Favor', 'tomicAt', 'NIcocAt', 'MoNiCat', 'MoNiCat']
+Mano Tomas: ['NIcocAt', 'Favor', 'DANICat', 'Favor', 'Favor', 'NIcocAt']
+Mano Alain: ['Favor', 'DANICat', 'tomicAt', 'Favor', 'Skip', 'MoNiCat']
+Andres ha robado Skip
+Tomas ha jugado dos NIcocAt
+Tomas ha recibido Favor de Andres
+Tomas ha robado Skip
+Alain ha robado Exploding Kitten
+Alain ha explotado
+Cartas restantes: 14
+Mano Andres: ['NIcocAt', 'tomicAt', 'NIcocAt', 'MoNiCat', 'MoNiCat', 'Skip']
+Mano Tomas: ['Favor', 'DANICat', 'Favor', 'Favor', 'Favor', 'Skip']
+Mano Alain: KABOOM!
+Andres ha robado Favor
+Cartas restantes: 13
+Mano Andres: ['NIcocAt', 'tomicAt', 'NIcocAt', 'MoNiCat', 'MoNiCat', 'Skip', 'Favor']
+Mano Tomas: ['Favor', 'DANICat', 'Favor', 'Favor', 'Favor', 'Skip']
+Mano Alain: KABOOM!
+Tomas ha robado Exploding Kitten
+Tomas ha explotado
+El juego ha terminado
+Andres ha ganado
+Cartas restantes: 12
+Mano Andres: ['NIcocAt', 'tomicAt', 'NIcocAt', 'MoNiCat', 'MoNiCat', 'Skip', 'Favor']
+Mano Tomas: KABOOM!
+Mano Alain: KABOOM!

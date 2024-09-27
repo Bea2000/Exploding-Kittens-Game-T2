@@ -1,0 +1,16 @@
+DANICat,MoNiCat,Skip,Favor,tomicAt,NIcocAt,DANICat,Skip,DANICat,Skip,Favor,NIcocAt,Exploding Kitten,Favor,Exploding Kitten,Skip,Skip
+Andres,Tomas,Alain
+NIcocAt,Favor,tomicAt,NIcocAt,MoNiCat,MoNiCat
+NIcocAt,Favor,DANICat,Favor,Favor,NIcocAt
+Favor,DANICat,tomicAt,Favor,Skip,MoNiCat
+Imprimir Estado
+Robar
+Jugar
+NIcocAt
+Andres
+Robar
+Robar
+Imprimir Estado
+Robar
+Imprimir Estado
+Robar
